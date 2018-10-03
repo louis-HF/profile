@@ -1,0 +1,122 @@
+/* Colors and Fonts */
+
+body{
+  background: #FAFAFA;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color:  #333333;
+  font-size: 16px;
+  line-height: 1.6em;
+}
+
+h1, h2, h3{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1{
+  color: #262626;
+  font-size: 24px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 400;
+}
+
+a{
+  font-size: 19px;
+  color: #093C6E;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+.fab{
+  font-weight: 400;
+}
+
+a:hover{
+  color: #f73859;
+  text-decoration: none;
+}
+
+table{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.2em;
+}
+
+td {
+  height: 150px;
+  vertical-align: middle;
+  padding-left: 20px;
+}
+
+ul li {
+  display: inline;
+  margin: 50;
+}
+
+.container {
+  width: 800px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.logo {
+  width: 150px;
+  height: 75px;
+  border-radius: 1%;
+  margin: 0 auto;
+}
+
+#aircall {
+  height: 60px;
+}
+
+#profile_pic {
+  width: 300px;
+  height: 300px;
+  border-radius: 1%;
+}
+
+.card{
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 1px;
+  margin: 0 0 10px;
+  padding: 35px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#sidebar {
+  position: fixed;
+  width: 200px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background: #333333;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+#page-content {
+  margin-left: 200px;
+}
+
+.light {
+  color: #FAFAFA;
+}
+
+.small {
+  font-size: 13px;
+}
+
+.inline {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.first {
+  margin-top: 50px;
+}
